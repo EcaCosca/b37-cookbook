@@ -21,6 +21,11 @@ h1 {
     background-color: rgb(247, 241, 235);
 }
 
+iframe {
+    height: 80vh;
+    width: 70vw;
+}
+
 .recipe {
     margin: 25px;
 }
